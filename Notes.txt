@@ -1,3 +1,0 @@
-Hello World
-
-Looks like I can create and modify files and then submit them to github through the app. Looks like it tracks all my commits. What about versions?
